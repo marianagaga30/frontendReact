@@ -5,6 +5,20 @@
   flex-direction: column;
   height: 100vh;
   gap: 2rem;
-  background-color: #333;
+  background-color:powderblue;
+  color:midnightblue;
+}
+
+.boton-accionar {
+  background-color:lawngreen;
+  color: black;
+  border-radius: 10px ;
+  padding: 2mm;
+}
+
+.boton-reiniciar {
+  background-color:red;
   color: #fff;
+  border-radius: 10px ;
+  padding: 2mm;
 }
